@@ -51,7 +51,7 @@ Python >= 3.7
 #### cd workpath/DIFM_Paddle/data && wget https://paddlerec.bj.bcebos.com/datasets/criteo/slot_train_data_full.tar.gz
 #### tar xzvf slot_train_data_full.tar.gz
 
-#### ============================== Step 2, train model ==============================
+#### ============================== Step 3, train model ==============================
 ### 启动训练、测试脚本 (需注意当前是否是 GPU 环境）
 ### !cd workpath/DIFM_Paddle && sh run.sh config_bigdata.yaml
 
