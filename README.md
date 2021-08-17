@@ -67,13 +67,13 @@ Python >= 3.7
 ├─models
    ├─ rank
         ├─difm # DIFM模型代码
-        ├─ data #样例数据
-        ├── __init__.py
-        ├── config.yaml # sample数据配置
-        ├── config_bigdata.yaml # 全量数据配置
-        ├── net.py # 模型核心组网（动静统一）
-        ├── criteo_reader.py #数据读取程序
-        ├── dygraph_model.py # 构建动态图
+            ├── data #样例数据
+            ├── __init__.py
+            ├── config.yaml # sample数据配置
+            ├── config_bigdata.yaml # 全量数据配置
+            ├── net.py # 模型核心组网（动静统一）
+            ├── criteo_reader.py #数据读取程序
+            ├── dygraph_model.py # 构建动态图
 ├─tools
 ├─README.md #文档
 ├─LICENSE #项目LICENSE
